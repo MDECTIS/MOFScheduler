@@ -1,0 +1,13 @@
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\MOFSyncJob.exe.config
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\MOFSyncJob.exe
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\MOFSyncJob.pdb
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\AccelTeam.Utilities.dll
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\BOL.dll
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\BOL.Wizard.dll
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\ClosedXML.dll
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\DocumentFormat.OpenXml.dll
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\MySql.Data.dll
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\ClosedXML.xml
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\bin\Release\MySql.Data.xml
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\obj\Release\MOFSyncJob.exe
+I:\Developments\MDEC\MOF\MOFScheduler\MOFSyncJob\MOFSyncJob\obj\Release\MOFSyncJob.pdb
